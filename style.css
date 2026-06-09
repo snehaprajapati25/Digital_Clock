@@ -1,0 +1,36 @@
+body{
+    background: radial-gradient( circle farthest-corner at 50% 52.5%,  rgba(14,53,92,1) 0%, rgba(16,14,72,1) 90% );
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    font-size: 30px;
+    gap: 20px
+}
+
+#banner{
+    color: white;
+}
+
+#clock{
+    /* padding: 20px 70px;
+    margin-top: 10px; */
+    height: 200px;
+    width: 700px;
+    border: 1px solid white;
+    border-radius: 20px;
+    font-size: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient( circle farthest-corner at 50% 52.5%,  rgb(8, 33, 58) 0%, rgb(14, 11, 57) 90% );
+     box-shadow:
+        0 0 15px rgba(0, 140, 255, 0.4),
+        0 0 30px rgba(0, 140, 255, 0.2),
+        0 10px 25px rgba(0, 0, 0, 0.4);
+}
