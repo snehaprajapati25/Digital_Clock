@@ -22,8 +22,6 @@ Built using vanilla JavaScript
 ```text
 Digital_Clock/
 
-│
-
 ├── index.html
 
 ├── style.css
